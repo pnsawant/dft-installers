@@ -1,6 +1,6 @@
 # DFT Installers
 
-This repository contains codes that I have written to install DFT codes like Quantum ESPRESSO, GPAW on various platforms.
+This repository contains programs that I have written to install DFT codes like Quantum ESPRESSO, GPAW on various platforms.
 
 The GPAW folder contains:
 1) Bash Script to silently install GPAW on Google Colab
